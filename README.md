@@ -19,6 +19,6 @@ information about this about repository
 ## Contributors 
 Name: Harshith Gudapati
 Course:Applied Computer Science
-Image
+# Image
 ![](https://www.jrh-cleveland.org/wp-content/uploads/2015/09/Mother-Teresa.jpg) 
 
