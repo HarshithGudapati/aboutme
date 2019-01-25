@@ -2,8 +2,8 @@
  hii this is my first project in web apps
 i want add more content 
 ## Repositary Links
-- [webpage](https://github.com/harshithgudpati/aboutme)
-- [source](https://harshithgudpati.github.io/about)
+- [webpage](https://harshithgudpati.github.io/aboutme/)
+- [source](https://github.com/harshithgudpati/aboutme)
 
 ## about 
 This is the repository that I have created which includes the basic 
